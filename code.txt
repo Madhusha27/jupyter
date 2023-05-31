@@ -1,0 +1,6 @@
+git init
+git status
+git add.
+git config user.name "name"
+git config user.email "email_id"
+git commit -m "first commitment"
